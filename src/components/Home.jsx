@@ -11,7 +11,6 @@ const Home = () => {
         <p className=" text-backgroundColor">
         Service by Staff, Hospitality was Amazing, Starters was Amazing, Amazing Food and Experience, Unlimited Refills, Excellent Food and Service
 
-
           deleniti?
         </p>
         <div className=" lg:pl-44">
