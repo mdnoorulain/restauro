@@ -12,16 +12,16 @@ const About = () => {
           Why Choose Us?
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi
-          architecto quisquam delectus minima perferendis nulla quia nisi
-          laborum, exercitationem cum quo accusantium, impedit sed. Dicta, quo
-          molestias omnis reprehenderit quae animi? Explicabo quasi accusamus
-          laboriosam temporibus delectus, aut a? Quasi?
+          A dish you really like (sushi, pizza, noodles, tacos, hotpot, cake…)<br/>
+          A type of food you like (seafood, meat, vegetarian, home-cooked food…)<br/>
+          A nationality of food you like (Italian, British, French, Indian, Mexican…)<br/>
+          A style of cooking you like (steamed, fried, roasted, barbecued…)<br/>
+         A particular taste you like (spicy, mild, sour, sweet…)<br/>
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi,
-          suscipit reiciendis accusamus recusandae eum aspernatur pariatur odit
-          veritatis facere. Magnam!
+           A restaurant you like eating this food at<br/>
+          If you can cook it or not<br/>
+           else that comes to your mind<br/>
         </p>
         <div className=" flex justify-center lg:justify-start">
           <Button title="Learn More" />

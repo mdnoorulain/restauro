@@ -5,10 +5,7 @@ const ReviewCard = (props) => {
     <div className=" w-full md:w-1/3 bg-white border-2 border-lightText md:border-none p-5 rounded-lg shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px]">
       <div>
         <p className=" text-lightText">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. In
-          consectetur error, dolores quae ipsa quos enim corporis magni
-          obcaecati tempore natus eos, libero ducimus nulla neque eaque maxime
-          nam molestias?
+        This cozy restaurant has left the best impressions! Hospitable hosts, delicious dishes, beautiful presentation, wide wine list and wonderful dessert. I recommend to everyone! I would like to come back here again and again.
         </p>
       </div>
 
